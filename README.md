@@ -13,4 +13,4 @@ Button Features:
 
 Note:
 Accepted inputs in the Integer field have to be between 0 and 99.
-Can input a single integer "2" or many "1 2 3 4 5' separated by spaces.
+User can input a single integer "2" or many "1 2 3 4 5' separated by spaces.
