@@ -1,5 +1,8 @@
 <h1>Binary-Search-Tree-Visualizer</h1>
 
+<h2>Installation:</h2>
+In order to run this visualizer, you must simply download the BinarySearchTreeVisualizer.jar included both in the repo and release and run it.
+
 <h2>Features:</h2>
 
 - Add: adds nodes using the Integer input field.
