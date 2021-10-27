@@ -29,40 +29,40 @@ User can input a single integer "2" or many "1 2 3 4 5" separated by spaces.
 
 - Add:
 <div align="center">
-    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Add.gif" height="443" />
+    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Add.gif" />
 </div>
 
 - Remove:
 <div align="center">
-    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Remove.gif" height="443" />
+    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Remove.gif" />
 </div>
 
 - Random:
 <div align="center">
-    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Random.gif" height="443" />
+    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Random.gif" />
 </div>
 
 - Clear:
 <div align="center">
-    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Clear.gif" height="443" />
+    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Clear.gif" />
 </div>
 
 - Inorder:
 <div align="center">
-    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Inorder.gif" height="443" />
+    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Inorder.gif" />
 </div>
 
 - Preorder:
 <div align="center">
-    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Preorder.gif" height="443" />
+    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Preorder.gif" />
 </div>
 
 - Postorder:
 <div align="center">
-    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Postorder.gif" height="443" />
+    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/Postorder.gif" />
 </div>
 
 - Level Order:
 <div align="center">
-    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/LevelOrder.gif" height="443" />
+    <img src="https://github.com/keanutan/Binary-Search-Tree-Visualizer/blob/main/README_Images/LevelOrder.gif" />
 </div>
